@@ -11,5 +11,7 @@ Trying to build a 2D Game Engine in C++ using various Object Oriented Programmin
 My Projects :
 1) Valentine's Day Proposal Webpage built using HTML , CSS , JavaScript
 2) Spam Email Classifier using Logistic Regression Model and NLP Techniques like Stopwords removal and TF-IDF Vectorization
+3) Built few ML algorithms from scratch like KNN classifier , Decision Tree, K-Means Clustering.
+
 
 
