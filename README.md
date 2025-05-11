@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-This is **Pathri Vidya Praveen** ,**a passionate programmer and a tech enthusiast**, a B.Tech CSE Student in IIT Hyderabad. I like to explore many things starting from Data Structures and Algorithms, Mathematics to AI ML stuff. 
+This is **Pathri Vidya Praveen** ,**a passionate programmer and a tech enthusiast**, a B.Tech CSE Student in IIT Hyderabad. I like to explore many things starting from Data Structures and Algorithms, Mathematics to AI ML and WebDev stuff. 
 I also like to understand everything deeply and clearly about how are things working on actually deep inside and how are things built actually from a developer's POV.
 
-Currently exploring various things like **DSA and Competitive Programming , Machine Learning and Web Development** dedicating some time to each topic alongside academics and interested to look into Low level System Programming and Cybersecurity in future.
+Currently exploring various things like **DSA and Competitive Programming , Machine Learning and Web Development** dedicating some time to each topic alongside academics and interested to look into Low level System Programming in future.
 
 
 My Projects :
