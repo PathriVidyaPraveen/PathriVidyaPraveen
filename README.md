@@ -5,14 +5,13 @@ I also like to understand everything deeply and clearly about how are things wor
 
 Currently exploring various things like **DSA and Competitive Programming , Machine Learning and Web Development** dedicating some time to each topic alongside academics and interested to look into Low level System Programming and Cybersecurity in future.
 
-**Current Working Project:
-Trying to build a 2D Game Engine in C++ using various Object Oriented Programming Concepts and using SDL2 API.**
 
 My Projects :
 1) Valentine's Day Proposal Webpage built using HTML , CSS , JavaScript
 2) Spam Email Classifier using Logistic Regression Model and NLP Techniques like Stopwords removal and TF-IDF Vectorization
 3) Built few ML algorithms from scratch like KNN classifier , Decision Tree, K-Means Clustering.
 4) Built a MERN Stack Web Application for Mess registration App Backend .
+5) Built a Deep Learning Model that predicts the emotion of given audio clip from RAVDESS dataset using multimodal emotion recognition from audio and transcripts
 
 
 
