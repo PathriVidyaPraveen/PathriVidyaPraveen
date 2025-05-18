@@ -19,6 +19,10 @@ Current Work :
 2) Core Member of Lambda - the Software Development Club of IIT Hyderabad
    
    [Visit Lambda](https://github.com/LambdaIITH)
+3) Software Development Core of Tinkerer's Lab IIT Hyderabad
+
+   [Visit Tinkerer's Lab](https://github.com/TinkerersLabIITH)
+   
 
 
 
