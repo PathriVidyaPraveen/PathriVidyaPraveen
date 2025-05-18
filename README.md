@@ -14,4 +14,9 @@ My Projects :
 5) Built a Deep Learning Model that predicts the emotion of given audio clip from RAVDESS dataset using multimodal emotion recognition from audio and transcripts
 
 
+Current Work :  
+1) A B.Tech CSE 2nd year student from IIT Hyderabad
+2) Core Member of Lambda - the Software Development Club of IIT Hyderabad
+
+
 
