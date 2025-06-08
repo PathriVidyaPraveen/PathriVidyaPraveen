@@ -7,11 +7,11 @@ Currently exploring various things like **DSA and Competitive Programming , Mach
 
 
 My Projects :
-1) Valentine's Day Proposal Webpage built using HTML , CSS , JavaScript
-2) Spam Email Classifier using Logistic Regression Model and NLP Techniques like Stopwords removal and TF-IDF Vectorization
-3) Built few ML algorithms from scratch like KNN classifier , Decision Tree, K-Means Clustering.
-4) Built a MERN Stack Web Application for Mess registration App Backend .
-5) Built a Deep Learning Model that predicts the emotion of given audio clip from RAVDESS dataset using multimodal emotion recognition from audio and transcripts
+
+1) Spam Email Classifier using Logistic Regression Model and NLP Techniques like Stopwords removal and TF-IDF Vectorization
+2) Built few ML algorithms from scratch like KNN classifier , Decision Tree, K-Means Clustering.
+3) Built a MERN Stack Web Application for Mess registration App Backend .
+4) Built a Deep Learning Model that predicts the emotion of given audio clip from RAVDESS dataset using multimodal emotion recognition from audio and transcripts
 
 
 Current Work :  
