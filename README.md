@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 This is **Pathri Vidya Praveen** ,**a passionate programmer and a tech enthusiast**, a B.Tech CSE Student in IIT Hyderabad. I like to explore many things from  Mathematics to AI ML and WebDev stuff. 
-I also like to understand everything deeply and clearly about how are things working on actually deep inside and how are things built actually from a developer's POV.
+I also like to understand everything deeply and clearly about how are things working on actually deep inside and how are things built actually from a developer's POV. I love to solve math problems and explore many things in various fields of mathematics.
 
-Currently exploring various things like **Machine Learning and Web Development** dedicating some time to each topic alongside academics and also interested to look into Low level System Programming.
+Currently exploring various things like **Mathematics , Artificial Intelligence, Systems programming and Software Development** dedicating some time to each topic alongside academics and also interested to look into Low level System Programming.
 
 
 
@@ -36,6 +36,4 @@ Current Work :
 
 <p align="left"> <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/></a> <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/></a> <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/></a> <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/></a> <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/></a> <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/></a> <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/></a>  
 
-⚙️ Core CS & Dev Tools  
 
-<p align="left"> <a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-data-structure-computer-science-flat-flat-juicy-fish.png" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Software_development"><img src="https://img.icons8.com/color/48/null/source-code.png" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Computer_architecture"><img src="https://img.icons8.com/color/48/null/computer-hardware.png" height="40"/></a> <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Problem_solving"><img src="https://img.icons8.com/color/48/null/mind-map.png" height="40"/></a> <a href="https://en.wikipedia.org/wiki/Mathematics"><img src="https://img.icons8.com/color/48/null/sigma.png" height="40"/></a> </p>
