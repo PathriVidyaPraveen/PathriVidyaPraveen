@@ -50,6 +50,10 @@ Currently exploring various things like **Mathematics , Artificial Intelligence,
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a> 
   <a href="https://flask.palletsprojects.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40"/></a> 
   <a href="https://gin-gonic.com/"><img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width="40" height="40"/></a>
+   <a href="https://fastapi.tiangolo.com/">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
+</a>
+
 </p>
 
 #### 🤖 AI / ML / Data Science  
@@ -62,6 +66,10 @@ Currently exploring various things like **Mathematics , Artificial Intelligence,
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a> 
   <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a> 
   <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a> 
+   <a href="https://streamlit.io/">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
